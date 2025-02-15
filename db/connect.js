@@ -1,7 +1,5 @@
 import mongoose from "mongoose";
 
-// const uri = "mongodb+srv://restapi:restapi@restapi.qavdy.mongodb.net/"
-
 
 const connectDB = async () => {
 
