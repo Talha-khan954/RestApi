@@ -1,0 +1,54 @@
+[
+    {
+        "name": "iphone",
+        "price": 155,
+        "company": "apple"
+    },
+    {
+        "name": "iphone8",
+        "price": 1255,
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 235,
+        "company": "apple"
+    },
+    {
+        "name": "macbook",
+        "price": 2300,
+        "featured": "true",
+        "company": "apple"
+    },
+    {
+        "name": "macbookpro",
+        "price": 20500,
+        "company": "apple"
+    },
+    {
+        "name": "core i5",
+        "price": 80000,
+        "company": "dell"
+    },
+    {
+        "name": "s20",
+        "price": 34500,
+        "company": "mi"
+    },
+    {
+        "name": "s24 ultra",
+        "price": 4550,
+        "company": "samsung"
+    },
+    {
+        "name": "s23",
+        "price": 154000,
+        "company": "samsung"
+    },
+    {
+        "name": "15 pro max",
+        "price": 4550,
+        "company": "samsung"
+    }
+]
